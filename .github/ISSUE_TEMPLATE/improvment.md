@@ -1,6 +1,6 @@
 ---
 name: Improvement
-about: Neither a bugfix nor a new feature.
+about: Neither a bugfix nor a new feature
 title: ''
 labels: 'improvement'
 assignees: ''
