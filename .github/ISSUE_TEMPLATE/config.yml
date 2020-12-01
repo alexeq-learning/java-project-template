@@ -1,2 +1,5 @@
 blank_issues_enabled: false
-
+contact_links:
+  - name: Internal Project Jira
+    url: https://www.atlassian.com/ru/software/jira
+    about: Template link to internal project's Jira (you will need proper creadentials).
