@@ -1,4 +1,4 @@
-# habber
+# Project sample
 
 I am using use this repo to learn github features.
 * :x: Projects? 
